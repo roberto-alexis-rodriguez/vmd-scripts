@@ -1,2 +1,2 @@
 # vmd-scripts
-tcl scripts for analysis using VMD
+scripts for analysis using VMD
