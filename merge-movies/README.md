@@ -1,4 +1,4 @@
-This script (`patching.sh` merges two sets of images
+This script (`patching.sh`) merges two sets of images
 for later processing into a video/gif/etc.
 It assumes the images are in two separate 
 directories and have a naming scheme like
