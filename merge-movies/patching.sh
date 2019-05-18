@@ -3,6 +3,11 @@
 str1=7.4/images/000.tga
 str2=5.5/images/000.tga
 
+if [ ! -d images ]; then
+    mkdir images
+    printf "\nCreated directory "images" to store merged files\n\n"
+fi
+
 for i in {0..149}; do
     if [ $i -lt 10 ]; then
         j=00$i
