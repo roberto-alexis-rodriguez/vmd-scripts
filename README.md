@@ -6,3 +6,6 @@ Create simple trajectory movies by rendering a series of molecular graphics and 
 You should generate a "vmd scene" file to set the visualization options.
 The file `movie.tcl` will call this file (`scene.vmd` by default) before starting the image rendering.
 There is also a render script `render-with-rotation.tcl` which will rotate the view about an axis as the trajectory progresses.
+
+## merge-movies
+See that folder's `README` for details.
